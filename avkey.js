@@ -1,58 +1,4 @@
-<html>
-	<head>
-		<link rel="stylesheet" href="style.css">
-		<script src="./avkey.js"></script>
-		<title>Extension 16.05 Vault</title>
-
-	</head>
-	<body>
-		<div class="headtag">
-			<a class="ret" href="index.html"><h1>Minecraft Alpha Version 1.0.16<br> Extension 16.05 VAULT</h1></a>
-		</div>
-		<br>
-		<br>
-		<div class="content">
-			<h2>Vault</h2>
-            <br>
-			Download the launcher <a href="https://github.com/Alphaverers/AlphaverLauncherRecreation">here</a>.
-            <h3>Jars</h3>
-            <a href="./files/lilypad_qa_client.jar">Lilypad QA</a> MD5: d04a76baaa6784ceaa46649cdaf04af5
-            <br>
-            <!--<a href="/files/lilypad_qa_r1.jar">Lilypad QA r1</a>-->
-            <a href="./files/v1605_preview_client.jar">Preview</a> MD5: aaa0dd3a38f25a848bd4a5ec176f6fd9
-            <br>
-            <a href="./files/v1605_unrpreview2_client.jar">Unrpreview2 client</a> MD5: b9ae07baff30118ffeb7b53d536e3114
-            <br>
-            <a href="./files/v1605_unrpreview2_server.jar">Unrpreview2 server</a> MD5: 0fb9d7998bcc269f521cd66c85df366d
-			<br>
-			<a href="https://gnawmon.github.io/saul.html">R4(real)</a> MD5: 6969696969696969LL69696969696969
-            <h3>Others</h3>
-			<a href="./files/btr.zip">btr</a> MD5: 9f00881ee67e7ca117aa9a00cd651faa
-			<br>
-			<a href="./files/btr2.zip">btr2</a> MD5: a789a596210dac5f1f8b38d922c82aa9
-			<br>
-			<a href="./files/btr3.zip">btr3</a> MD5: e1a307fd289f1ccc26a28aa33ba4be8b
-			<br>
-			<a href="./files/btr4.zip">btr4</a> MD5: bac38acc65f6523801265c608eff001f
-			<br>
-			<a href="./files/Soundtracks-OST1&2.rar">Soundtracks, OST 1 & 2</a> MD5: not yet i think i missed something
-			<br>
-			<a href="./files/HZDScript.ttf">Haiza Font</a> MD5: 07291609e1a12842a0012ddf5290fb9e
-			<h3>Lilypad Key Gen</h3>
-			<input type="text" id="name"></input>
-			<button onclick="genKeyAfterTime()">Generate Key</button>
-			<br><br>
-			<div id="key" class="key"></div>
-		</div>
-		<div class="footer">
-			Made with pain by unnatural
-		</div>
-	</body>
-</html>
-
-<!--
-<script>
-	// Here it is, the (mostly) original unobfuscated code.
+// Here it is, the (mostly) original unobfuscated code.
 // This originally ran off PHP.
 
 let EndBytes = [39, 86, 26, 72, 13, 91, 23];
@@ -151,5 +97,3 @@ function generateKey(){
 				navigator.clipboard.writeText(key);
     }
 }
-</script>
--->
