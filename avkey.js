@@ -1,5 +1,57 @@
 // Here it is, the (mostly) original unobfuscated code.
 // This originally ran off PHP.
+console.log({
+        "lilypad": {
+        "name": "lilypad_qa_client",
+        "format": "jar",
+        "MD5": "d04a76baaa6784ceaa46649cdaf04af5"
+        },
+        "preview": {
+            "name": "v1605_preview_client",
+            "format": "jar",
+            "MD5": "aaa0dd3a38f25a848bd4a5ec176f6fd9"
+        },
+        "unrpreview_server": {
+            "name": "v1605_unrpreview2_server",
+            "format": "jar",
+            "MD5": "0fb9d7998bcc269f521cd66c85df366d"
+        },
+        "unrpreview_client": {
+            "name": "v1605_unrpreview2_client",
+            "format": "jar",
+            "MD5": "b9ae07baff30118ffeb7b53d536e3114"
+        },
+        "btr": {
+            "name": "btr",
+            "format": "zip",
+            "MD5": "9f00881ee67e7ca117aa9a00cd651faa"
+        },
+        "btr2": {
+            "name": "btr2",
+            "format": "zip",
+            "MD5": "a789a596210dac5f1f8b38d922c82aa9"
+        },
+        "btr3": {
+            "name": "btr3",
+            "format": "zip",
+            "MD5": "e1a307fd289f1ccc26a28aa33ba4be8b"
+        },
+        "btr4": {
+            "name": "btr4",
+            "format": "zip",
+            "MD5": "bac38acc65f6523801265c608eff001f"
+        },
+        "Haiza": {
+            "name": "HZDScript",
+            "format": "ttf",
+            "MD5": "07291609e1a12842a0012ddf5290fb9e"
+        },
+        "Soundtrack": {
+            "name": "Soundtracks-OST1&2",
+            "format": "rar",
+            "MD5": "NONE"
+        }
+})
 
 let EndBytes = [39, 86, 26, 72, 13, 91, 23];
 
