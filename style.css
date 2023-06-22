@@ -116,3 +116,8 @@ body {
       font-size: 20pt;
       font-style: oblique;
   }
+
+  redman {
+    font: italic;
+    color: red;
+  }
